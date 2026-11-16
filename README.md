@@ -1,4 +1,4 @@
-# Hi, I'm Edson 👋
+# Hello there, I'm Edson 👋
 
 ### Actuarial Science Graduate | Full-Stack Data Analyst
 
